@@ -1,0 +1,10 @@
+Test suite spec: RUNNING...
+
+Basic.Addition
+  Addition
+    sums the adding to itself
+
+Finished in 0.0001 seconds
+1 example, 0 failures
+Test suite spec: PASS
+Test suite logged to: dist/test/basicApp-0.0.0-spec.log

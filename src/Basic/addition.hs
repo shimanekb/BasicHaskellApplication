@@ -1,4 +1,4 @@
-module Basic.Addition.Addition 
+module Basic.Addition
 (solve) where
 
 solve :: Int -> Int
